@@ -4,5 +4,5 @@
 
 ## Projects
 - [PWManager](https://github.com/PWManager/PWManager)
-- [PWManager java servion](https://github.com/PWManager/PWManager-java)
-- [Base 256](https://PWManager/base256-enc)
+- [PWManager java version](https://github.com/PWManager/PWManager-java)
+- [Base 256](https://github.com/PWManager/base256-enc)
