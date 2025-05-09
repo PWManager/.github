@@ -1,6 +1,7 @@
 # PWManager team.
 ## Team members
 - [@MichaelSoftWare2025](https://github.com/MichaelSoftWare2025)
+- [@vezuchiy-patsan](https://github.com/vezuchiy-patsan)
 
 ## Projects
 - [PWManager](https://github.com/PWManager/PWManager)
